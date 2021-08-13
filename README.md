@@ -1,4 +1,4 @@
-# Sentiment-Analysis_Bot
+# Sentiment-Analysis-Bot
 Trading Bot implemented on Elon musk tweets on Tesla. 
 The bot buys TSLA stock based on minutely data of Elon Musk tweets, and sells on negative sentiment, since the effect of positive tweets is temporary, the bot liquidates all tesla
 stocks at the end of the day 
