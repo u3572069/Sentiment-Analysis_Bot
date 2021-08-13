@@ -6,3 +6,8 @@ stocks at the end of the day
 The performance metrics are given below - 
 
 ![image](https://user-images.githubusercontent.com/55791618/129392736-28deb5e9-74b5-4a58-8e85-690d9f27f112.png)
+
+Detailed statistics - 
+
+![image](https://user-images.githubusercontent.com/55791618/129393011-8e0cb134-7dcc-4904-b1ca-d295d2619520.png)
+
